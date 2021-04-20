@@ -1,1 +1,1 @@
-A multi-threading and statistical calculation app
+A multi-threaded and statistical calculation app
